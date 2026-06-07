@@ -1,7 +1,7 @@
 python-telegram-bot==20.7
 pandas==2.3.3
 pandas_market_calendars==5.3.0
-pandas-ta==0.4.71b0
+pandas-ta
 yf==0.0.5
 yfinance==1.0
 yt-dlp==2025.1.26
