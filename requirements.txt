@@ -1,5 +1,5 @@
-yfinance==0.2.40
-pandas==2.2.2
+yfinance==1.0
+pandas==2.3.3
 pandas-ta==0.3.14b0
 openai==1.35.0
 apscheduler==3.10.4
