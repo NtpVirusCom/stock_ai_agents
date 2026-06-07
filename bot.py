@@ -33,7 +33,7 @@ except ImportError:
     OpenAI = None
     OPENAI_AVAILABLE = False
 
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "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")
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 WATCHLIST = os.environ.get("WATCHLIST", "NVDA,ASML,AVGO").split(",")
 CHECK_INTERVAL_MINUTES = int(os.environ.get("CHECK_INTERVAL_MINUTES", "2"))
 
