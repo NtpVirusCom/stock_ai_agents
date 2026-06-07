@@ -5,8 +5,8 @@ yf==0.0.5
 yfinance==1.0
 yt-dlp==2025.1.26
 openai==2.15.0
-matplotlib==3.6.2
-numpy==1.26.4
+matplotlib==3.10.3
+numpy==2.2.6
 requests==2.31
 fastapi==0.111.0
 uvicorn[standard]==0.30.0
